@@ -2,9 +2,9 @@
 1. Design Employee Database for company or Organization (Employee Personal Details, 
 Department, Salary (basic, DA, HRA.,) Details) and develop JDBC based java application for 
 following tasks: 
-1. Insert Records into respective table 
-2. Select records of particular table of database 
-3. Delete Records from table. 
+i) Insert Records into respective table 
+ii) Select records of particular table of database 
+iii) Delete Records from table. 
 Connect GUI application to database and perform SQL commands via JDBC API 
 
 2. Write a program in Java Beans to add a Button to the Bean and display the number of times the 
