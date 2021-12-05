@@ -7,7 +7,6 @@ public class TcpServer
     {
         try
         {
-
             ServerSocket s= new ServerSocket(95);
             System.out.println("Server Waiting for the Client");
             Socket cs=s.accept();
