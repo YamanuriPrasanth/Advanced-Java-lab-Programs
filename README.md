@@ -14,7 +14,7 @@ button has been clicked.
 
 4. Write a program for Java Bean with Indexed Property by using SimpleBeanInfo class. 
 
-5. Write a program to develop a Enterprise Java Bean of "Session Bean" type. 
+5. Design a JSP application using useBean, setProperty and getProperty action tags 
 
 6. Create Application for Datagram server and Client interaction as per given below. 
 i] Datagram server to send a message to client. 
@@ -37,5 +37,4 @@ existing user using cookies
 12. Create JSP to output, "Welcome to JSP world. The time now is: system current time. Use a 
 scriptlet for the complete string, including the HTML tags 
 
-13. Create a simple JSP application for online poll application that prompts the user to answer a 
-question and display the results in bar graph representation
+13. Create a simple login validation web application using JSP MVC
