@@ -8,7 +8,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import mypack.LoginBean;
 @WebServlet("/ControllerServlet")
-public class ControllerServlet extends HttpServlet {
+public class ControllerServlet extends HttpServlet
+{
     private static final long serialVersionUID = 1L;
     public ControllerServlet() 
     {
