@@ -8,6 +8,6 @@
 </head>
 <body>
 Welcome to the Jsp World. The Date and Time now is:
-<%= new.java.util.Date() %>
+<%= new java.util.Date() %>
 </body>
 </html>
