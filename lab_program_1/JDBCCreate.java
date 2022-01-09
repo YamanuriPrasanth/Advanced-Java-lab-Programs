@@ -1,4 +1,4 @@
-mport java.sql.*;
+import java.sql.*;
 public class JDBCCreate
 {
 	public static void main(String[] args)
