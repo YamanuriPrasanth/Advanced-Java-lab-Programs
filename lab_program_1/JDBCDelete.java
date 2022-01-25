@@ -8,7 +8,7 @@ public class JDBCDelete
 		try
 		{
 			Class.forName("org.h2.Driver");
-			Connection con=DriverManager.getConnection("jdbc:h2:tcp://localhost/~/test", "sa", "SA");
+			Connection con=DriverManager.getConnection("jdbc:h2:tcp://localhost/~/test", "sa", "sa");
 			PreparedStatement psmt=con.prepareStatement("delete from Employee where id=?;");
 			psmt.setInt(1, 102);
 			boolean b=psmt.execute();
