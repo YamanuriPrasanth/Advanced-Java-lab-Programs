@@ -15,7 +15,7 @@ public class JDBCInsert {
 		{
 			System.out.println(e);
 		}
-		// TODO Auto-generated method stub
+		
 
 	}
 
