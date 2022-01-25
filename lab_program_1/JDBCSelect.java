@@ -8,7 +8,7 @@ public class JDBCSelect {
 		try
 		{
 			Class.forName("org.h2.Driver");
-			Connection con=DriverManager.getConnection("jdbc:h2:tcp://localhost/~/test", "sa", "SA");
+			Connection con=DriverManager.getConnection("jdbc:h2:tcp://localhost/~/test", "sa", "sa");
 			Statement st=con.createStatement();
 			ResultSet rs=st.executeQuery("select * from Employee;");
 			while(rs.next())
